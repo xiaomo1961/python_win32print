@@ -1,0 +1,603 @@
+{
+	"Printername": null, 
+	"PrinterSetting":
+	{
+		"PaperLength": 297,
+		"PaperWidth": 210
+	},
+	"words":
+	[
+		{
+			"text": "送 货 单",
+			"x": 60,
+			"y": -15,
+			"font": 
+			{
+				"height":8,
+				"width":6,
+				"escapement":0,
+				"orientation":0,
+				"weight":true,
+				"italic":false,
+				"underline":false,
+				"name":"楷体"
+			}
+		},
+
+		{
+			"text": "____________商品混凝土有限公司",
+			"x": 55,
+			"y": -25,
+			"font": 
+			{
+				"height":4,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "搅拌站号：",
+			"x": 2,
+			"y": -36,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+
+		},
+		{
+			"text": "No: 0000001",
+			"x": 120,
+			"y": -36,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "施工单位",
+			"x": 3,
+			"y": -44,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "工程名称",
+			"x": 3,
+			"y": -54,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "施工部门",
+			"x": 3,
+			"y": -64,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "强度等级",
+			"x": 3,
+			"y": -74,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": " 塌落度",
+			"x": 3,
+			"y": -84,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": " 粒 径",
+			"x": 3,
+			"y": -94,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "出货单号",
+			"x": 44,
+			"y": -74,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "配比编号",
+			"x": 44,
+			"y": -84,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "合同编号",
+			"x": 44,
+			"y": -94,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": " 驾驶员",
+			"x": 85,
+			"y": -44,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "运输车号",
+			"x": 85,
+			"y": -54,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": " 距  离",
+			"x": 85,
+			"y": -64,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "发货时间",
+			"x": 85,
+			"y": -74,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "到达时间",
+			"x": 85,
+			"y": -84,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "卸货时间",
+			"x": 85,
+			"y": -94,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "本车方量",
+			"x": 129,
+			"y": -44,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "计划方量",
+			"x": 129,
+			"y": -54,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "已完方量",
+			"x": 129,
+			"y": -64,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "累计车次",
+			"x": 129,
+			"y": -74,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "发货人",
+			"x": 129,
+			"y": -84,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "签收人",
+			"x": 129,
+			"y": -94,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "M³",
+			"x": 166,
+			"y": -44,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "M³",
+			"x": 166,
+			"y": -54,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "M³",
+			"x": 166,
+			"y": -64,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "说明：未经本公司许可不得往混凝土内添加水或其他材料，否则由此引起的质量问题概不负责。",
+			"x": 3,
+			"y": -104,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		},
+		{
+			"text": "备注：",
+			"x": 3,
+			"y": -124,
+			"font": 
+			{
+				"height":3,
+				"width":2,
+				"escapement":0,
+				"orientation":0,
+				"weight":false,
+				"italic":false,
+				"underline":false,
+				"name":"宋体"
+			}
+		}
+	],
+	"form":[
+		{
+			"x":0,
+			"y":-40,
+			"x1":170,
+			"y1":-40
+		},
+		{
+			"x":0,
+			"y":-50,
+			"x1":170,
+			"y1":-50
+		},
+		{
+			"x":0,
+			"y":-60,
+			"x1":170,
+			"y1":-60
+		},
+		{
+			"x":0,
+			"y":-70,
+			"x1":170,
+			"y1":-70
+		},
+		{
+			"x":0,
+			"y":-80,
+			"x1":170,
+			"y1":-80
+		},
+		{
+			"x":0,
+			"y":-90,
+			"x1":170,
+			"y1":-90
+		},
+		{
+			"x":0,
+			"y":-100,
+			"x1":170,
+			"y1":-100
+		},
+		{
+			"x":0,
+			"y":-110,
+			"x1":170,
+			"y1":-110
+		},
+		{
+			"x":0,
+			"y":-140,
+			"x1":170,
+			"y1":-140
+		},
+		{
+			"x":0,
+			"y":-40,
+			"x1":0,
+			"y1":-140
+		},
+		{
+			"x":170,
+			"y":-40,
+			"x1":170,
+			"y1":-140
+		},
+		{
+			"x":22,
+			"y":-40,
+			"x1":22,
+			"y1":-100
+		},
+		{
+			"x":41,
+			"y":-70,
+			"x1":41,
+			"y1":-100
+		},
+		{
+			"x":63,
+			"y":-70,
+			"x1":63,
+			"y1":-100
+		},
+		{
+			"x":82,
+			"y":-40,
+			"x1":82,
+			"y1":-100
+		},
+		{
+			"x":104,
+			"y":-40,
+			"x1":102,
+			"y1":-100
+		},
+		{
+			"x":126,
+			"y":-40,
+			"x1":126,
+			"y1":-100
+		},
+		{
+			"x":148,
+			"y":-40,
+			"x1":148,
+			"y1":-100
+		}
+	]
+}
